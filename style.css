@@ -1,0 +1,66 @@
+html{
+    background-color: rgb(105, 105, 105);
+}
+
+
+
+h1.name{
+    margin-left: auto;
+    margin-right: auto;
+    width: 10em;
+    color: whitesmoke;
+    font-family:"Andale Mono", monospace;
+    vertical-align: center;
+    font-size: 60px;
+    margin: 5px;
+}
+
+
+
+
+h3.profession{
+    margin-left: auto;
+    margin-right: auto;
+    width: 10em;
+     color: whitesmoke;
+    font-size: 40px;
+    font-family:"Andale Mono", monospace;
+    margin: 5px;
+    
+}
+
+h3.nickname{
+    margin-left: auto;
+    margin-right: auto;
+    width: 10em;
+     color: whitesmoke;
+    font-size: 40px;
+    font-family:"Andale Mono", monospace;
+    margin: 5px;
+}
+
+#rectangle {
+	width: 800px;
+	height: 200;
+	background-color: white;
+	margin: 10px auto;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-color: black;
+    border-style: groove ridge inset outset;
+}
+
+#aboutme{
+    font-family:"Andale Mono", monospace;
+    padding: 10px;
+}
+
+p.aboutme{
+    font-size: 50px:
+}
+
+#disc{
+    color: rgba(0.5,0,0,0.5);
+}
