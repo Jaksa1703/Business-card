@@ -7,7 +7,6 @@ html{
 h1.name{
     margin-left: auto;
     margin-right: auto;
-    width: 10em;
     color: whitesmoke;
     font-family:"Andale Mono", monospace;
     vertical-align: center;
@@ -21,7 +20,6 @@ h1.name{
 h3.profession{
     margin-left: auto;
     margin-right: auto;
-    width: 10em;
      color: whitesmoke;
     font-size: 40px;
     font-family:"Andale Mono", monospace;
@@ -32,7 +30,6 @@ h3.profession{
 h3.nickname{
     margin-left: auto;
     margin-right: auto;
-    width: 10em;
      color: whitesmoke;
     font-size: 40px;
     font-family:"Andale Mono", monospace;
