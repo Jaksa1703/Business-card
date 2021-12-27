@@ -37,7 +37,7 @@ h3.nickname{
 }
 
 #rectangle {
-	width: 800px;
+	max-width: 800px;
 	height: 200;
 	background-color: white;
 	margin: 10px auto;
