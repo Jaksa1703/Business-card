@@ -58,6 +58,10 @@ p.aboutme{
     font-size: 50px:
 }
 
+a.hg{
+	color:black;
+}
+
 #disc{
     color: rgba(0.5,0,0,0.5);
 }
